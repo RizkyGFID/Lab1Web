@@ -18,7 +18,7 @@ Isi bagian paragraf pada halaman HTML dengan teks sesuai kebutuhan menggunakan t
 
 **Langkah 5** 
 
-Tambahkan judul pada paragraf pertama dan kedua menggunakan tag heading, misalnya <h1> untuk judul utama dan <h2` untuk subjudul. Simpan kembali file, lalu cek hasilnya di browser. Anda juga dapat menambahkan atribut pemformatan pada paragraf seperti yang dijelaskan pada langkah 4.
+Tambahkan judul pada paragraf pertama dan kedua menggunakan tag heading, misalnya <h1> untuk judul utama dan <h2> untuk subjudul. Simpan kembali file, lalu cek hasilnya di browser. Anda juga dapat menambahkan atribut pemformatan pada paragraf seperti yang dijelaskan pada langkah 4.
 
 **Langkah 6** 
 Sisipkan gambar ke dalam halaman HTML menggunakan tag <img>. Pastikan file gambar disimpan di dalam folder yang sama dengan file HTML, atau gunakan URL dari web eksternal. Tambahkan juga judul gambar menggunakan tag <h3>. Setelah itu, simpan file dan lihat hasilnya pada browser.
