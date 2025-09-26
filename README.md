@@ -66,3 +66,5 @@ Jika sudah, maka hasilnya seperti in. Jika kalian memilih text "HTML Pertemuan 2
 <img src="Langkah 13.png" alt="Tutorial" width="400">
 
 Dengan mengikuti langkah-langkah di atas, Anda telah berhasil membuat sebuah halaman web sederhana menggunakan HTML. Mulai dari menuliskan struktur dasar, menambahkan paragraf dengan berbagai atribut, menyisipkan judul, gambar, hingga membuat hyperlink ke halaman lain. Dari latihan ini, Anda dapat memahami dasar-dasar pembuatan web menggunakan HTML yang nantinya bisa jadi tahap awal memahami dasar dari HTML.
+
+Sekian dari penjelasan berikut, atas perhatiannya saya mengucapkan terima kasih.
