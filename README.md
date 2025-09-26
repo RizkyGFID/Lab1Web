@@ -14,7 +14,7 @@ Buat file HTML baru dengan nama **"Lab1WebTutor.html"**, lalu tambahkan struktur
 Setelah file selesai dibuat, buka file tersebut menggunakan web browser pilihan Anda untuk menguji hasil kode HTML. Misalnya, Anda bisa menggunakan Google Chrome untuk melihat tampilan halaman web.
 
 **Langkah 4** 
-Isi bagian paragraf pada halaman HTML dengan teks sesuai kebutuhan menggunakan tag <p>. Setelah itu, simpan file dan lihat perubahannya di web. Pada paragraf, Anda juga bisa menambahkan atribut seperti align untuk mengatur perataan teks, serta tag pemformatan seperti <b> untuk bold, <strong> untuk penekanan, <i> untuk italic, <mark> untuk menandai teks, dan <u> untuk underlin*.
+Isi bagian paragraf pada halaman HTML dengan teks sesuai kebutuhan menggunakan tag <p>. Setelah itu, simpan file dan lihat perubahannya di web. Pada paragraf, Anda juga bisa menambahkan atribut seperti align untuk mengatur perataan teks, serta tag pemformatan seperti <b> untuk bold, <strong> untuk penekanan, <i> untuk italic, <mark> untuk menandai teks, dan <u> untuk underline.
 
 **Langkah 5** 
 Tambahkan judul pada paragraf pertama dan kedua menggunakan tag heading, misalnya <h1> untuk judul utama dan <h2` untuk subjudul. Simpan kembali file, lalu cek hasilnya di browser. Anda juga dapat menambahkan atribut pemformatan pada paragraf seperti yang dijelaskan pada langkah 4.
