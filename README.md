@@ -7,7 +7,7 @@ Halo semuanya, sebelumnya perkenalkan saya Ahmad Rizky Pramudia Pratama,  disini
 **Langkah 1** 
 Persiapkan software untuk membuat web menggunakan HTML. Anda dapat menggunakan *text editor* seperti Visual Studio Code (VS Code) untuk menuliskan kode, serta web browser seperti Google Chrome atau Mozilla Firefox untuk menampilkan hasil web.
 
-![Alt Text](path/gambar.png)
+![Alt Text](path/Langkah 1.png)
 
 **Langkah 2**
 Buat file HTML baru dengan nama **"Lab1WebTutor.html"**, lalu tambahkan struktur dasar dokumen HTML, yaitu tag <html>, <head>, <title>, dan <body> sebagai kerangka utama.
